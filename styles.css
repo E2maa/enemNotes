@@ -1,0 +1,37 @@
+body{
+  margin: 4vmin auto auto 6vmin;
+  background-color: #0b0b0a;
+  color: #e7f7ff;
+  font-family: "space mono";
+  
+}
+h1{
+  color: #d358c9;
+}
+h2{
+  color: #d29de2;
+}
+h3{
+  color: #F97794;
+}
+h4 {
+  color: #ffaae6;
+}
+a{
+  color: #7b60dd;
+}
+
+#navbar{
+    display: flex;
+    flex-direction: column;
+}
+#nav{
+    border-right: 2px;
+    border-color: #e7f7ff;
+    min-width: 30vmin;
+    padding-right: 4vw;
+}
+body{
+    display: flex;
+    flex-direction: row-reverse;
+}
